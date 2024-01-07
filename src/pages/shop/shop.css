@@ -27,3 +27,15 @@
     transform: 0.3s ease-in;
     cursor: pointer;
 }
+.btn {
+    padding: 5px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    padding-left: 10px;
+    margin-left: 76px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: black;
+    color: whitesmoke;
+}
